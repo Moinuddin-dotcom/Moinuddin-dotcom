@@ -15,6 +15,12 @@
 
 ###
 
+<div align="center">
+  <img height="500" src="https://i.ibb.co.com/6cvGYL5V/cool-background-2.png"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h2 align="center">Hi, I'm Moinuddin! 👋</h2>
@@ -23,9 +29,6 @@
 
 <br clear="both">
 
-<img align="right" height="430" src="https://i.ibb.co.com/3Y4dcbRG/Moin-Uddin.jpg"  />
-
-###
 
 <p align="left">👩‍💻  About Me:<br><br>I am a Full Stack Developer with a strong foundation in frontend and backend development. I specialize in React.js, Tailwind CSS, and MongoDB, and I’m currently expanding my expertise in Next.js and Auth.js to build scalable full-stack applications.</p>
 
