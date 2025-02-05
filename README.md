@@ -87,7 +87,8 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Moinuddin-dotcom&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Moinuddin-dotcom&theme=dark&hide_current_streak=false&hide_total_contributions=false)
+
 
 
 ###
