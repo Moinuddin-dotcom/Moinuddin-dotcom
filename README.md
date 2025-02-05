@@ -87,7 +87,11 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Moinuddin-dotcom)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=the-nazzmul&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 
 
