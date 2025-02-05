@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h2 align="center">Hi, I'm Moinuddin! 👋</h2>
+<h2 align="center">Hi, I'm Md. Moinuddin Chowdhury! 👋</h2>
 
 ###
 
