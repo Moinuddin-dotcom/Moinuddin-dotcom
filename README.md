@@ -89,7 +89,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=dark" alt="GitHub Profile Summary" />
 </div>
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+<div style="display: flex; justify-content: space-between; gap:20px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark" alt="Top Languages" />
 </div>
