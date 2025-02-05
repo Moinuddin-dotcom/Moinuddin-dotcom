@@ -84,7 +84,10 @@
 ## 📊 GitHub Stats
 
 ###
+
+<div align="center">
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=dark)
+  </div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark)
 <div align="center">
