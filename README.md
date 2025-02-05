@@ -89,9 +89,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark)
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=the-nazzmul&theme=dark" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=Moinuddin-dotcom&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
+
 
 
 
