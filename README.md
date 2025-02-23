@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/Y7Rck2LY/bgOfMoin.png"  />
+  <img height="200" src="https://i.ibb.co.com/Y7Rck2LY/bgOfMoin.png"  />
 </div>
 
 ###
