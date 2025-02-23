@@ -34,7 +34,7 @@
 
 <br clear="both">
 
-<p align="left">I'm from Chattogram, Bangladesh.<br><br>- 👨‍💻 Full Stack Developer | Passionate about building modern, responsive web applications<br>- 🔥 Bug Generator Since 2023 | "If it works, don’t touch it" philosophy 🛠️<br>- 📌 Love crafting beautiful UIs & optimizing backend performance<br>- 🏗️ Building scalable, real-world applications with modern technologies<br>- 🎯 Currently Learning: Next.js & Auth.js for better authentication and performance</p>
+<p align="left">I'm from Chattogram, Bangladesh.<br><br>- 👨‍💻 Front-End Developer | Passionate about building modern, responsive web applications<br>- 🔥 Bug Generator Since 2023 | "If it works, don’t touch it" philosophy 🛠️<br>- 📌 Love crafting beautiful UIs & optimizing backend performance<br>- 🏗️ Building scalable, real-world applications with modern technologies<br>- 🎯 Currently Learning: Next.js & Auth.js for better authentication and performance</p>
 
 ###
 
