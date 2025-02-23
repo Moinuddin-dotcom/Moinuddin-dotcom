@@ -28,7 +28,7 @@
 <br clear="both">
 
 
-<p align="left">👩‍💻  About Me:<br><br>I am a Full Stack Developer with a strong foundation in frontend and backend development. I specialize in React.js, Tailwind CSS, and MongoDB, and I’m currently expanding my expertise in Next.js and Auth.js to build scalable full-stack applications.</p>
+<p align="left">👩‍💻  About Me:<br><br>I am a Front-End Developer with a strong foundation in frontend and backend development. I specialize in React.js, Tailwind CSS, and MongoDB, and I’m currently expanding my expertise in Next.js and Auth.js to build scalable full-stack applications.</p>
 
 ###
 
@@ -64,8 +64,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" /> -->
   
 </div>
 
@@ -79,8 +79,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+<!--   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  /> -->
 </div>
 
 ## 📊 GitHub Stats
