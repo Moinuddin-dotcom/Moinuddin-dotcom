@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/6cvGYL5V/cool-background-2.png"  />
+  <img height="500" src="https://ibb.co.com/ynf6y0QG"  />
 </div>
 
 ###
