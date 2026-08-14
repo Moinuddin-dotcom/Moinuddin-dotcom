@@ -254,13 +254,13 @@ A full-stack multivendor marketplace platform with multiple business modules and
   <br /><br />
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark&hide_border=true"
     height="180"
     alt="Top Languages"
   />
