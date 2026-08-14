@@ -19,9 +19,9 @@
 <!-- ==================== BANNER ==================== -->
 
 <div align="center">
-  <a href="https://moinuddin-portfolio-lime.vercel.app/" target="_blank">
+  <a href="https://moinuddin-pf.vercel.app/" target="_blank">
     <img 
-      src="./assets/fullstack-banner.png" 
+      src="https://res.cloudinary.com/dvex5rjik/image/upload/v1786748860/WhatsApp_Image_2026-08-15_at_5.01.52_AM_rtc1l1.jpg" 
       width="100%" 
       alt="Md. Moinuddin Chowdhury - Full Stack Developer" 
     />
