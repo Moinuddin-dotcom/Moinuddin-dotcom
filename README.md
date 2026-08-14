@@ -18,9 +18,7 @@
 
 <!-- ==================== BANNER ==================== -->
 
-<div align="center">
-  <img src="./assets/fullstack-banner.png" width="100%" alt="Md. Moinuddin Chowdhury - Full Stack Developer" />
-</div>
+<a href="https://www.linkedin.com/in/md-moinuddin-chowdhury-67098123b/" target="_blank">
 
 <br />
 
