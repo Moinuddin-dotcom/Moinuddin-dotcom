@@ -18,8 +18,15 @@
 
 <!-- ==================== BANNER ==================== -->
 
-<a href="https://www.linkedin.com/in/md-moinuddin-chowdhury-67098123b/" target="_blank">
-
+<div align="center">
+  <a href="https://moinuddin-portfolio-lime.vercel.app/" target="_blank">
+    <img 
+      src="./assets/fullstack-banner.png" 
+      width="100%" 
+      alt="Md. Moinuddin Chowdhury - Full Stack Developer" 
+    />
+  </a>
+</div>
 <br />
 
 <!-- ==================== INTRO ==================== -->
