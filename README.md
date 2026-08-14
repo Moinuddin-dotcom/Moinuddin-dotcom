@@ -245,25 +245,32 @@ A full-stack multivendor marketplace platform with multiple business modules and
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=dark" width="100%" alt="GitHub Profile Summary" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moinuddin-dotcom&theme=github_dark"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
 
-</div>
+  <br /><br />
 
-<br />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
+    height="180"
+    alt="Top Languages"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Moinuddin-dotcom&show_icons=true&theme=dark&hide_border=true" height="180" alt="GitHub Stats" />
+  <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moinuddin-dotcom&layout=compact&theme=dark&hide_border=true" height="180" alt="Top Languages" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app?user=Moinuddin-dotcom&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.vercel.app?user=Moinuddin-dotcom&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 </div>
 
